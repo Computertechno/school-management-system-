@@ -1,0 +1,75 @@
+/* ============================================
+   PAGE-SPECIFIC BACKGROUND IMAGES
+   ============================================ */
+
+/* Students Page */
+.students-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/students-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Staff Page */
+.staff-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/staff-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Admissions Page */
+.admissions-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/admissions-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Academics Page */
+.academics-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/academics-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Fees Page */
+.fees-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/fees-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Medical Page */
+.medical-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/medical-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Library Page */
+.library-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/library-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Attendance Page */
+.attendance-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/attendance-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Reports Page */
+.reports-page {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/reports-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Teacher Dashboard */
+.teacher-dashboard {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/teacher-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Parent Dashboard */
+.parent-dashboard {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/parent-bg.jpg') center/cover no-repeat fixed;
+}
+
+/* Accountant Dashboard */
+.accountant-dashboard {
+    background: linear-gradient(135deg, rgba(26,44,62,0.85) 0%, rgba(46,125,50,0.85) 100%),
+                url('../images/finance-bg.jpg') center/cover no-repeat fixed;
+}

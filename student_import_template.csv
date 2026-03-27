@@ -1,0 +1,11 @@
+first_name,last_name,date_of_birth,gender,class_name,parent_name,parent_phone
+John,Mukasa,2015-03-15,Male,Primary 5 A,James Mukasa,0772123456
+Sarah,Nakato,2016-05-20,Female,Primary 5 A,Mary Nakato,0782123456
+James,Ssempijja,2014-08-10,Male,Senior 2 B,Peter Ssempijja,0773123456
+Grace,Nambi,2015-11-25,Female,Primary 5 B,Robert Nambi,0783123456
+Michael,Mutyaba,2013-02-18,Male,Senior 1 A,David Mutyaba,0774123456
+Esther,Ssebunya,2014-07-22,Female,Primary 6 A,Joseph Ssebunya,0784123456
+William,Muwanga,2012-09-30,Male,Primary 7 A,Richard Muwanga,0775123456
+Ruth,Kayemba,2013-12-05,Female,Senior 3 A,Charles Kayemba,0785123456
+David,Kato,2011-04-12,Male,Senior 4 A,William Kato,0776123456
+Judith,Mbabazi,2012-06-28,Female,Primary 4 A,Robert Mbabazi,0786123456
